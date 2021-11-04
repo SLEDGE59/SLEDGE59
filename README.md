@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SLEDGE59
-- 👀 I’m interested in skill development
-- 🌱 I’m currently learning active directory and powershell
+- 👋 Hi, I’m @SLEDGE59. I joined github to further my skills and store code from projects on my homelab. Excited to get feedback and learn some new things!  
 
 
 <!---
